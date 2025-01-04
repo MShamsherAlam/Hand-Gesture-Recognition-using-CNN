@@ -13,8 +13,6 @@ Simple-OpenCV-Calculator and this project are merged to one. Simple-OpenCV-Calcu
 4. Then used the model which was trained using Keras on a video stream.
 5. As of today, I have stored the 44 gestures for which are 26 alphabets and 10 numbers of American Sign language and some other gestures. And trained the model on these images.
 
-There are a lot of details that I left. But these are the basic and main steps.
-
 
 ## Requirements
 0. Python 3.x
